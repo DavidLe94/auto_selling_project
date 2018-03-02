@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/text_home"/>
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/shopping_cart"
+            android:title="@string/text_cart"/>
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/thumbsup"
+            android:title="@string/text_favorite"/>
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/telegram"
+            android:title="@string/text_manage"/>
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/facebook"
+            android:title="@string/text_login"
+            android:enabled="false"/>
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/key"
+            android:title="@string/text_log_out"
+            android:enabled="false"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send"/>
+        </menu>
+    </item>
+
+</menu>

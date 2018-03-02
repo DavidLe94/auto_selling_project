@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:tag="manage"
+    android:id="@+id/fragment_manage">
+
+
+    <GridView
+        android:id="@+id/gridview_products"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:columnWidth="150dp"
+        android:numColumns="2"
+        android:verticalSpacing="20dp"
+        android:listSelector="@drawable/list_selecter"
+        android:stretchMode="spacingWidthUniform"/>
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/progress_bar"/>
+
+</RelativeLayout>
