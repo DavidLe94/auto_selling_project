@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "231017737050",
+    "firebase_url": "https://fir-autoselling.firebaseio.com",
+    "project_id": "firebase-autoselling",
+    "storage_bucket": "firebase-autoselling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231017737050:android:1c0b2c77a9d1ee0c",
+        "android_client_info": {
+          "package_name": "com.example.haule.autoselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231017737050-jdv9m91p5eskk2lks7ktunug480oobbc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "231017737050-gp0fjji40852jnvlmbegl1a76s8l91qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haule.autoselling",
+            "certificate_hash": "4242478a9222da257eec9731cf6a1088739e8983"
+          }
+        },
+        {
+          "client_id": "231017737050-6tr44sgob9iek7jovr542iseaidn0siv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimR2G-qt-er0QzNTyBTbhbrnBxNSgZCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231017737050-jdv9m91p5eskk2lks7ktunug480oobbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231017737050:android:e5427881f6dd9663",
+        "android_client_info": {
+          "package_name": "poly.haule.autoselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231017737050-jdv9m91p5eskk2lks7ktunug480oobbc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "231017737050-ifq8uc6qmmmjhve1lgg9qdk13cct2bt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "poly.haule.autoselling",
+            "certificate_hash": "4242478a9222da257eec9731cf6a1088739e8983"
+          }
+        },
+        {
+          "client_id": "231017737050-6tr44sgob9iek7jovr542iseaidn0siv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimR2G-qt-er0QzNTyBTbhbrnBxNSgZCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231017737050-jdv9m91p5eskk2lks7ktunug480oobbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
